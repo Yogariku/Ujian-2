@@ -1,0 +1,5 @@
+a. Salah // karena ada juga method void yang tidak mengembalikan nilai
+b. Benar // karena parameter berfungsi sebagai inputan dari method yang sudah dibuat
+c. Benar // karena kalau tipe data berbeda akan terjadi error
+d. Benar // karena fungsi dalam method beragam sehingga bisa menampung banyak parameter
+e. Salah // di java return value pada method hanya bisa 1
